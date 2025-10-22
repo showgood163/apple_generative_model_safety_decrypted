@@ -1,12 +1,1 @@
-{
-  "reject": [],
-  "remove": [],
-  "replace": {},
-  "regexReject": [
-    "(?i)\\bhet\\b",
-    "(?i)\\bmale\\b",
-    "(?i)\\bneg(er|ro)s?\\b"
-  ],
-  "regexRemove": [],
-  "regexReplace": {}
-}
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(paria((s|hs?))?|h(indu\\\\s+paria((s|hs?))?|et))\\b"],"regexRemove":[],"regexReplace":{}}

@@ -1,0 +1,1 @@
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(et\\s+un\\s+assistant\\s+utile|fin_du_tour|une\\s+conversation\\s+entre\\s+un\\s+utilisateur)\\b"],"regexRemove":[],"regexReplace":{}}

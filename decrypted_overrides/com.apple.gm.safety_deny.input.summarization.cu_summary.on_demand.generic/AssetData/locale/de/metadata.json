@@ -1,0 +1,1 @@
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(eine\\s+unterhaltung\\s+zwischen\\s+einem:einer\\s+benutzer(in)?|gespr\u00e4chsabschnitt_ende|und\\s+eine\\s+hilfreiche\\s+assistenz)\\b"],"regexRemove":[],"regexReplace":{}}

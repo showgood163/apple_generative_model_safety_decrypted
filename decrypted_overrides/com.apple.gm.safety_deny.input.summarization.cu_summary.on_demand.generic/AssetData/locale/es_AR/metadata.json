@@ -1,12 +1,1 @@
-{
-  "reject": [],
-  "remove": [],
-  "replace": {},
-  "regexReject": [
-    "(?i)\\bfinalizar\\b",
-    "(?i)\\buna\\s+conversación\\s+entre\\s+un\\s+usuario\\b",
-    "(?i)\\by\\s+un\\s+asistente\\s+servicial\\b"
-  ],
-  "regexRemove": [],
-  "regexReplace": {}
-}
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(finalizar|y\\s+un\\s+asistente\\s+servicial)\\b"],"regexRemove":[],"regexReplace":{}}

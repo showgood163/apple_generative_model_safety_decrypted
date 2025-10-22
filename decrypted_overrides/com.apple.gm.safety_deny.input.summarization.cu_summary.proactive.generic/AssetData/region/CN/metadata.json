@@ -1,18 +1,1 @@
-{
-  "reject": [],
-  "remove": [],
-  "replace": {},
-  "regexReject": [
-    "(?i)\\ba\\s+conversation\\s+between\\s+a\\s+user\\b",
-    "(?i)\\band\\s+a\\s+helpful\\s+assistant\\b",
-    "(?i)\\bopt-out\\s+to\\s+end\\b",
-    "(?i)\\bopt\\s+out\\s+to\\s+end\\b",
-    "(?i)\\boptout\\s+to\\s+end\\b",
-    "(?i)\\breply\\s+stop\\b",
-    "(?i)\\bstop(2|=)(opt|end|cancel|unsubscribe|quit|stop)\\b",
-    "(?i)\\bstop\\s+(to|2)\\s+(opt|end|cancel|unsubscribe|quit|stop)\\b",
-    "(?i)\\bturn_end\\b"
-  ],
-  "regexRemove": [],
-  "regexReplace": {}
-}
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(a(\\s+conversation\\s+between\\s+a\\s+user|nd\\s+a\\s+helpful\\s+assistant)|opt(out\\s+to\\s+end|-out\\s+to\\s+end|\\s+out\\s+to\\s+end)|reply\\s+stop|stop(\\s+(to|2)\\s+|[2=])(opt|end|cancel|unsubscribe|quit|stop)|turn_end)\\b"],"regexRemove":[],"regexReplace":{}}

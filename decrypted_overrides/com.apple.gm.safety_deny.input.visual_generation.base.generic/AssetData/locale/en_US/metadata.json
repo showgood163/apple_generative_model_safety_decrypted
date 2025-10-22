@@ -1,15 +1,1 @@
-{
-  "reject": [],
-  "remove": [],
-  "replace": {},
-  "regexReject": [
-    "(?i)\\bbone\\s+in\\s+mouth\\b",
-    "(?i)\\bneg(er|ro)s?\\b",
-    "(?i)\\bspat\\s+in\\s+disgust\\b",
-    "(?i)\\bspit\\s+in\\s+disgust\\b",
-    "(?i)\\bspits\\s+in\\s+disgust\\b",
-    "(?i)\\bspitting\\s+in\\s+disgust\\b"
-  ],
-  "regexRemove": [],
-  "regexReplace": {}
-}
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(a(b(dallah\\s+azzam\\s+brigades|u\\s+sayyaf\\s+group)|jnad\\s+m[ai]sr|l(-(a(n(dalus\\s+media|fal\\s+trust)|qsa\\s+martyrs\\s+brigade|shtar\\s+brigades)|h(ayat\\s+media\\s+center|ijra)|mu(lathamun\\s+battalion|rabitoun)|qa[\u2019']ida(\\s+in\\s+the\\s+(arabian\\s+peninsula|i(ndian\\s+subcontinent|slamic\\s+maghreb)))?|shabaab)|\\s+(hayat|muhammadia\\s+students))|maq\\s+news\\s+agency|nsar(\\s+(al-(dine|islam|shari[\u2019']a\\s+in\\s+(benghazi|darnah|tunisia))|ul-ummah)|u)|rmy\\s+of\\s+islam|s(a[\u2019']ib\\s+ahl\\s+al-haq|bat\\s+al-ansar))|boko\\s+haram|c(artel(\\s+de(\\s+(jalisco\\s+nueva\\s+generacion|sinaloa)|l\\s+(golfo|noreste))|es\\s+unidos)|o(mmunist\\s+party\\s+of\\s+the\\s+philippines|ntinuity\\s+irish\\s+republican\\s+army))|external\\s+security\\s+organization(\\s+of\\s+hezbollah)?|foreign\\s+(action\\s+unit|relations\\s+department)|g(ran\\s+grif|ulf\\s+cartel)|h(a(mas|qqani\\s+network|rakat\\s+(sawa[\u2019']d\\s+misr|ul-(jihad-i-islami|mujahidin)))|ezbollah|izb(allah(\\s+(eso|international))?|ul\\s+mujahideen))|i(ndian\\s+mujahedeen|s(is((-(bangladesh|drc|libya|mozambique|philippines|sinai\\s+province|west\\s+africa)|\\s+in\\s+the\\s+greater\\s+sahara))?|lamic\\s+(jihad\\s+union|movement\\s+of\\s+uzbekistan|revolutionary\\s+guard\\s+corps|state([\u2019']s\\s+khorasan\\s+province|\\s+of\\s+iraq))))|j(a(ish(-e-mohammed|\\s+al-adl)|ma[\u2019']at\\s+nusrat\\s+al-islam\\s+wal-muslimin|ysh\\s+(al-adl|rijal\\s+al-tariq\\s+al\\s+naqshabandi))|emaah\\s+(anshorut\\s+tauhid|islamiya)|undallah)|k(ata[\u2019']ib\\s+hizballah|urdistan\\s+workers\\s+party)|l(a(\\s+nueva\\s+familia\\s+michoacana|shkar(-e-tayyiba|\\s+i\\s+jhangvi))|ebanese\\s+h(ezbollah|izballah)|iberation\\s+tigers\\s+of\\s+tamil\\s+eelam)|m(ar(a\\s+salvatrucha|wan\\s+hadid\\s+brigades?)|illi\\s+muslim\\s+league)|n(ational\\s+liberation\\s+army|ew\\s+(irish\\s+republican\\s+army|people[\u2019']s\\s+army))|p(alestine\\s+(islamic\\s+jihad|liberation\\s+front)|flp-general\\s+command|opular\\s+front\\s+for\\s+the\\s+liberation\\s+of\\s+palestine)|re(al\\s+irish\\s+republican\\s+army|volutionary\\s+(people[\u2019']s\\s+liberation\\s+(front|party)|struggle))|s(e(gunda\\s+marquetalia|ndero\\s+luminoso)|hining\\s+path|oldiers\\s+of\\s+egypt|pecial\\s+operations\\s+branch)|t(ehr(eek-e-azadi-e-kashmir|ik-e(-(hurmat-e-rasool|tahafuz\\s+qibla\\s+awwal)|\\s+taliban\\s+pakistan))|he\\s+resistance\\s+front|ren\\s+de\\s+aragua)|viv\\s+ansanm)\\b"],"regexRemove":[],"regexReplace":{}}

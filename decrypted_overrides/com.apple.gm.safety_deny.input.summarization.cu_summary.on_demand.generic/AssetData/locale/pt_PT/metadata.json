@@ -1,12 +1,1 @@
-{
-  "reject": [],
-  "remove": [],
-  "replace": {},
-  "regexReject": [
-    "(?i)\\be\\s+um\\s+assistente\\s+prestativo\\b",
-    "(?i)\\bfim_da_vez\\b",
-    "(?i)\\buma\\s+conversa\\s+entre\\s+um\\s+utilizador\\b"
-  ],
-  "regexRemove": [],
-  "regexReplace": {}
-}
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(e\\s+um\\s+assistente\\s+prestativo|fim_da_vez|uma\\s+conversa\\s+entre\\s+um\\s+utilizador)\\b"],"regexRemove":[],"regexReplace":{}}

@@ -1,11 +1,1 @@
-{
-  "reject": [],
-  "remove": [],
-  "replace": {},
-  "regexReject": [
-    "(?i)\\bmale\\b",
-    "(?i)\\bneg(er|ro)s?\\b"
-  ],
-  "regexRemove": [],
-  "regexReplace": {}
-}
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(paria((s|hs?))?|hindu\\\\s+paria((s|hs?))?)\\b"],"regexRemove":[],"regexReplace":{}}

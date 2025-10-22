@@ -1,15 +1,1 @@
-{
-  "reject": [],
-  "remove": [],
-  "replace": {},
-  "regexReject": [
-    "(?i)\\bbone\\s+in\\s+mouth\\b",
-    "(?i)\\bneg(er|ro)s?\\b",
-    "(?i)\\bspat\\s+in\\s+disgust\\b",
-    "(?i)\\bspit\\s+in\\s+disgust\\b",
-    "(?i)\\bspits\\s+in\\s+disgust\\b",
-    "(?i)\\bspitting\\s+in\\s+disgust\\b"
-  ],
-  "regexRemove": [],
-  "regexReplace": {}
-}
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(al-(akhtar\\s+trust|qaeda)|boeremag|riyad-us\\s+saliheen\\s+brigade\\s+of\\s+martyrs|tariq\\s+gidar\\s+group)\\b"],"regexRemove":[],"regexReplace":{}}

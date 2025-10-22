@@ -1,15 +1,1 @@
-{
-  "reject": [],
-  "remove": [],
-  "replace": {},
-  "regexReject": [
-    "(?i)\\bbone\\s+in\\s+mouth\\b",
-    "(?i)\\bneg(er|ro)s?\\b",
-    "(?i)\\bspat\\s+in\\s+disgust\\b",
-    "(?i)\\bspit\\s+in\\s+disgust\\b",
-    "(?i)\\bspits\\s+in\\s+disgust\\b",
-    "(?i)\\bspitting\\s+in\\s+disgust\\b"
-  ],
-  "regexRemove": [],
-  "regexReplace": {}
-}
+{"reject":[],"remove":[],"replace":{},"regexReject":["(?i)\\b(a(bu\\s+sayyaf\\s+group|l-(qa[\u2019']ida(\\s+in\\s+the\\s+(arabian\\s+peninsula|indian\\s+subcontinent|lands\\s+of\\s+the\\s+islamic\\s+maghreb))?|shabaab)|nsar\\s+allah)|boko\\s+haram|h(a(mas|y[\u2019']at\\s+tahrir\\s+al-sham)|izballah|urras\\s+al-din)|is(is|lamic\\s+state(\\s+(east\\s+asia|in\\s+libya|khorasan\\s+province|s(inai\\s+province|omalia)|west\\s+africa\\s+province))?)|j(a(ish-e-mohammad|ma[\u2019']at\\s+(mujahideen\\s+bangladesh|nusrat\\s+al-islam\\s+wal-muslimin))|emaah\\s+islamiyah)|kurdistan\\s+workers[\u2019']\\s+party|lashkar-e-tayyiba|n(ational\\s+socialist\\s+order|eo-jama[\u2019']at\\s+mujahideen\\s+bangladesh)|palestinian\\s+islamic\\s+jihad|sonnenkrieg\\s+division|t(errorgram|he\\s+base))\\b"],"regexRemove":[],"regexReplace":{}}
